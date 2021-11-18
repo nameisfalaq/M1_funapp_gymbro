@@ -14,6 +14,6 @@ There are a lot of websites which provide you with calorie calculation details a
 
 Here is an image for your reference.
 
-![](RackMultipart20211118-4-1t2u9tm_html_bf9f08f87de8705a.jpg)
+![img](RackMultipart20211118-4-1t2u9tm_html_bf9f08f87de8705a.jpg)
 
 **4W &amp; 1H**
