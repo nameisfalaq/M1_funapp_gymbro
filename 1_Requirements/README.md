@@ -17,12 +17,39 @@ Here is an image for your reference.
 ![research_1](https://user-images.githubusercontent.com/63052065/143007419-592d921d-fde1-47a0-b3e8-24bc45ea1f77.png)
 
 
-### **4W &amp; 1H**
+### **4Ws &amp; 1H**
 <hr>
+
+1. What
+<hr> 
+
+A basic calorie calculator which tells us the calories your bodies need for a specific goal.
+
+ 2. Where
+<hr>
+
+It can be used on windows and linux operating systems which have the capabilities of compiling the c program in accordance to the project  needs.
+
+ 3. When
+<hr>
+
+MVP will be put into action by 25th  November 2021.
+
+4. Why
+<hr>
+
+Majority of people go through their lifes not knowing what to do if they want to make changes to their body. The first step to change is knowing what are the calories your body needs to maintain a specific weight and then later on as required by the goal of the user you can tell them how they can gain or lose weight with the help of calories.
+
+5. How
+<hr>
+
+The idea will for now be put into action with the help of C programming language and logic building.
 
 ### **SWOT Analysis**
 <hr>
-### **High Level Requirements**
+
+### __High Level Requirements__
 <hr>
+
 ### **Low Level Requirements**
 <hr>
