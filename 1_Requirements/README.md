@@ -48,6 +48,9 @@ The idea will for now be put into action with the help of C programming language
 ### **SWOT Analysis**
 <hr>
 
+Strengths
+<hr>
+
 ### __High Level Requirements__
 <hr>
 
