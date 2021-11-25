@@ -70,6 +70,16 @@ The threats are already existing calculators for checking calories.
 ### __High Level Requirements__
 <hr>
 
+| ID            | Description   | Status  |
+| ------------- |:-------------:| -------:|
+| HLR_1         | Calorie calculator shall give maintainance calorie info| Implemented |
+| HLR_2         | Calorie calculator shall give caloric surplus and deficit info | Implemented    |
+
 
 ### **Low Level Requirements**
 <hr>
+
+| ID            | Description   | Status  |
+| ------------- |:-------------:| -------:|
+| LLR_1_HLR_1         | Maintainance calories => int input and int output for calories calculator | Implemented |
+| LLR_1_HLR_2       |Caloric Surplus or Caloric Deficit => int input from maintainance calories and results in int format | Implemented    |
