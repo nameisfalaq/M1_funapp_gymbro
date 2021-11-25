@@ -51,8 +51,25 @@ The idea will for now be put into action with the help of C programming language
 Strengths
 <hr>
 
+The program lets you get data about your calorie intake and what to do to increase or decrease bodyweight.
+
+Weaknesses
+<hr>
+
+The data is only pretty basic at the  moment and can be made better.
+
+Opportunities
+<hr>
+
+Private gyms can utilize this program for calorie calulation.
+
+Threats
+<hr>
+The threats are already existing calculators for checking calories.
+
 ### __High Level Requirements__
 <hr>
+
 
 ### **Low Level Requirements**
 <hr>
