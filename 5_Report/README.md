@@ -85,8 +85,17 @@ The threats are already existing calculators for checking calories.
 | LLR_1_HLR_2       |Caloric Surplus or Caloric Deficit => int input from maintainance calories and results in int format | Implemented    |
 
 
-#Design
+# Design
+<hr>
 
-![location](https://user-images.githubusercontent.com/63052065/143462067-04c9b6ed-8758-469d-8dcc-eb1f30f57850.jpg)
+### Behavioural Diagram
+<hr>
+
+![behaviour](https://user-images.githubusercontent.com/63052065/143463001-9ddc1b21-71d5-4106-b473-d55125150559.jpg)
+
+
+### Structural Diagram
+<hr>
+
 ![structure](https://user-images.githubusercontent.com/63052065/143462080-aa6e34f9-577e-4103-b100-95995de51854.jpg)
 
