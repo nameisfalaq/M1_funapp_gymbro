@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: cpp check
 
 on:
   push:
@@ -13,9 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make 
-      run: sudo apt install make
-    - name: make all 
-      run: make all -C 3_Implementation/
-      
-    
+    - name: Install cppcheck
+      run: sudo apt-get -y install cppcheck
+    - name: Cppcheck code
+      run: cppcheck 3_Implementation 
