@@ -1,5 +1,5 @@
-PROJ_NAME = TELECOM_BILLING_SYSTEM
-SRC = telecom billing system.c telecom billing system.c
+PROJ_NAME = gymbro
+SRC = application.c application.c
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
